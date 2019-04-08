@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\bin\Debug\RegisterLogin.exe.config
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\bin\Debug\RegisterLogin.exe
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\bin\Debug\RegisterLogin.pdb
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.Form1.resources
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.Properties.Resources.resources
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.SendCV.resources
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.Sirket.resources
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.SirketCVPoct.resources
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.Vakansiyalar.resources
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.VakanYerler.resources
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.exe
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.pdb
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Task1\CV_Sirket\RegisterLogin\obj\Debug\RegisterLogin.CVPoct.resources
